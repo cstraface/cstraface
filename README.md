@@ -8,6 +8,6 @@ Founded in 2019,  Brick Enterprise is the holding company for Christopher G. Str
 + Home security and automation
 
 Brick Enterprises LLC owns and operates the following websites:
-+ cgstraface.com
-+ eaglecreeksecurity.com
-+ msrprop.com
++ [cgstraface.com](https://cgstraface.com)
++ [eaglecreeksecurity.com](https://eaglecreeksecurity.com)
++ [msrprop.com](https://msrprop.com)
