@@ -1,12 +1,13 @@
-## Hi there, I'm Chris 👋
-With a decade-long track record steering the helm of e-commerce and direct-to-consumer enterprises, I bring a wealth of expertise as a seasoned product manager. My journey has sculpted a unique fusion of marketing finesse and product leadership—an intricate dance between technical proficiency and an acute understanding of customer journeys. 
-
-## Man of many passions 
-You might say, I'm all over the place. Started in consumer. Landed in D2C. Went to school for business, and ended up on Github writing this `README.md`. 
-
-I'm `technical`. ⚡Creative⚡. 🤔Curious🤔. 
-
 ## Brick Enterprises LLC
-My fancy LLC, that's home to all of my ideas. I'm a Shopify consultant on the side. I run Eagle Creek Security based in Eagle, ID. I *was* a partner at MSR Properties.
+Founded in 2019,  Brick Enterprise is the holding company for Christopher G. Straface and Erica Pauline Straface and family, operating consultative businesses across multiple industries including:
++ e-Commerce & D2C website operations
++ User experience research
++ Home & commercial property management and lease administration
++ Home construction and remodeling
++ Home interior design
++ Home security and automation
 
-
+Brick Enterprises LLC owns and operates the following websites:
++ cgstraface.com
++ eaglecreeksecurity.com
++ msrprop.com
